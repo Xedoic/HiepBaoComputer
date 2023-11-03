@@ -1,0 +1,1080 @@
+﻿++Solution 'HiepBaoComputer' ‎(1 of 1 project)
+i:{00000000-0000-0000-0000-000000000000}:HiepBaoComputer.sln
+++HiepBaoComputer
+i:{00000000-0000-0000-0000-000000000000}:HiepBaoComputer
+++Connected Services 
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:>147
+++Dependencies
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:>146
+++Properties
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\properties\
+++wwwroot
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\
+++assets
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\assets\
+++css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\css\
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\css\
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\css\
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\css\
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\js\
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\js\
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\js\
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\js\
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\
+++user_assets
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\
+++fonts
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\fonts\
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\fonts\
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\fonts\
+++images
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\
+++revolution
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\
+++coloredbg.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\assets\coloredbg.png
+++gridtile.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\assets\gridtile.png
+++gridtile_3x3.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\assets\gridtile_3x3.png
+++gridtile_3x3_white.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\assets\gridtile_3x3_white.png
+++gridtile_white.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\assets\gridtile_white.png
+++loader.gif
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\assets\loader.gif
+++closedhand.cur
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\css\closedhand.cur
+++layers.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\css\layers.css
+++navigation.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\css\navigation.css
+++openhand.cur
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\css\openhand.cur
+++settings.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\css\settings.css
+++revicons
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\fonts\revicons\
+++favicon.ico
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\favicon.ico
+++Areas
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\
+++Admin
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\
+++Controllers
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\controllers\
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\controllers\
+++AccountController.cs
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\controllers\accountcontroller.cs
+++AdminDanhMucController.cs
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\controllers\admindanhmuccontroller.cs
+++AdminKhachHangController.cs
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\controllers\adminkhachhangcontroller.cs
+++AdminSanPhamController.cs
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\controllers\adminsanphamcontroller.cs
+++HomeController.cs
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\controllers\homecontroller.cs
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\controllers\homecontroller.cs
+++Data
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\data\
+++Models
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\models\
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\models\
+++Views
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\views\
+++Account
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\account\
+++Create.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\account\create.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\admindanhmuc\create.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\adminkhachhang\create.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\adminsanpham\create.cshtml
+++Delete.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\account\delete.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\admindanhmuc\delete.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\adminkhachhang\delete.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\adminsanpham\delete.cshtml
+++Details.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\account\details.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\admindanhmuc\details.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\adminkhachhang\details.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\adminsanpham\details.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\views\sanpham\details.cshtml
+++Edit.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\account\edit.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\admindanhmuc\edit.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\adminkhachhang\edit.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\adminsanpham\edit.cshtml
+++Index.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\account\index.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\admindanhmuc\index.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\adminkhachhang\index.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\adminsanpham\index.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\home\index.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\views\home\index.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\views\sanpham\index.cshtml
+++AdminDanhMuc
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\admindanhmuc\
+++AdminKhachHang
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\adminkhachhang\
+++AdminSanPham
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\adminsanpham\
+++Home
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\home\
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\views\home\
+++Shared
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\shared\
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\views\shared\
+++_Layout.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\shared\_layout.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\shared\_validationscriptspartial.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\shared\error.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\_viewimports.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\areas\admin\views\_viewstart.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\views\_viewstart.cshtml
+++Account.cs
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\models\account.cs
+++ChiTietDonHang.cs
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\models\chitietdonhang.cs
+++DanhMucSp.cs
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\models\danhmucsp.cs
+++DonHang.cs
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\models\donhang.cs
+++ErrorViewModel.cs
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\models\errorviewmodel.cs
+++HiepBaoComputerContext.cs
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\models\hiepbaocomputercontext.cs
+++KhachHang.cs
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\models\khachhang.cs
+++SanPham.cs
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\models\sanpham.cs
+++Privacy.cshtml
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\views\home\privacy.cshtml
+++appsettings.json
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\appsettings.json
+++Program.cs
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\program.cs
+++ScaffoldingReadMe.txt
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\scaffoldingreadme.txt
+++Startup.cs
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\startup.cs
+++No service dependencies discovered
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:>148
+++Analyzers
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:analyzers
+++Frameworks
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:frameworks
+++Packages
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:packages
+++launchSettings.json
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\properties\launchsettings.json
+++img
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\
+++scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\
+++site.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\css\site.css
+++site.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\js\site.js
+++bootstrap
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\bootstrap\
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\
+++jquery
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\jquery\
+++jquery-validation
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\jquery-validation-unobtrusive\
+++animate.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\css\animate.css
+++bootstrap.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\css\bootstrap.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\css\bootstrap-grid.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\css\bootstrap-reboot.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-select.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\css\bootstrap-select.css
+++colors_landing_page.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\css\colors_landing_page.css
+++colors1.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\css\colors1.css
+++colors1_dark.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\css\colors1_dark.css
+++colors2.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\css\colors2.css
+++colors3.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\css\colors3.css
+++custom.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\css\custom.css
+++dark_layout.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\css\dark_layout.css
+++font-awesome.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\css\font-awesome.css
+++hizoom.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\css\hizoom.css
+++owl.carousel.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\css\owl.carousel.css
+++owl.theme.default.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\css\owl.theme.default.css
+++responsive.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\css\responsive.css
+++style.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\css\style.css
+++FontAwesome.otf
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\fonts\fontawesome.otf
+++fontawesome-webfont.eot
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\fonts\fontawesome-webfont.eot
+++fontawesome-webfont.svg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\fonts\fontawesome-webfont.svg
+++fontawesome-webfont.ttf
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\fonts\fontawesome-webfont.ttf
+++fontawesome-webfont.woff
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\fonts\fontawesome-webfont.woff
+++fontawesome-webfont.woff2
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\fonts\fontawesome-webfont.woff2
+++fevicon
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\fevicon\
+++it_service
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\
+++loaders
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\loaders\
+++logos
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\logos\
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\logos\
+++gradian_black.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\gradian_black.png
+++gradian_blue.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\gradian_blue.png
+++bootstrap.min.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\js\bootstrap.min.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\js\core\bootstrap.min.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++custom.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\js\custom.js
+++hizoom.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\js\hizoom.js
+++jquery.min.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\js\jquery.min.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\jquery\dist\jquery.min.js
+++menumaker.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\js\menumaker.js
+++wow.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\js\wow.js
+++revicons.eot
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\fonts\revicons\revicons.eot
+++revicons.svg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\fonts\revicons\revicons.svg
+++revicons.ttf
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\fonts\revicons\revicons.ttf
+++revicons.woff
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\fonts\revicons\revicons.woff
+++extensions
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\js\extensions\
+++jquery.themepunch.revolution.min.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\js\jquery.themepunch.revolution.min.js
+++jquery.themepunch.tools.min.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\js\jquery.themepunch.tools.min.js
+++appsettings.Development.json
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\appsettings.development.json
+++Microsoft.AspNetCore.Analyzers
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.CodeAnalysis.Analyzers
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:c:\users\dung2\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.Analyzers
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:c:\users\dung2\.nuget\packages\microsoft.codeanalysis.analyzers\3.0.0\analyzers\dotnet\cs\microsoft.codeanalysis.csharp.analyzers.dll
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:c:\program files\dotnet\sdk\6.0.101\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:c:\users\dung2\.nuget\packages\microsoft.entityframeworkcore.analyzers\5.0.17\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.AspNetCore.App
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\microsoft.aspnetcore.app
+++Microsoft.NETCore.App
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\microsoft.netcore.app
+++Microsoft.EntityFrameworkCore (5.0.17)
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:>1163
+++Microsoft.EntityFrameworkCore.Design (5.0.17)
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:>1165
+++Microsoft.EntityFrameworkCore.SqlServer (5.0.17)
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:>1166
+++Microsoft.EntityFrameworkCore.Tools (5.0.17)
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:>1167
+++Microsoft.VisualStudio.Web.CodeGeneration.Design (5.0.2)
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:>208
+++material-dashboard.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\css\material-dashboard.css
+++nucleo-icons.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\css\nucleo-icons.css
+++nucleo-svg.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\css\nucleo-svg.css
+++nucleo.eot
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\fonts\nucleo.eot
+++nucleo.ttf
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\fonts\nucleo.ttf
+++nucleo.woff
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\fonts\nucleo.woff
+++nucleo.woff2
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\fonts\nucleo.woff2
+++nucleo-icons.eot
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\fonts\nucleo-icons.eot
+++nucleo-icons.svg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\fonts\nucleo-icons.svg
+++nucleo-icons.ttf
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\fonts\nucleo-icons.ttf
+++nucleo-icons.woff
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\fonts\nucleo-icons.woff
+++nucleo-icons.woff2
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\fonts\nucleo-icons.woff2
+++icons
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\icons\
+++illustrations
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\illustrations\
+++products
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\products\
+++shapes
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\shapes\
+++small-logos
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\small-logos\
+++apple-icon.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\apple-icon.png
+++bg-pricing.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\bg-pricing.jpg
+++bg-smart-home-1.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\bg-smart-home-1.jpg
+++bg-smart-home-2.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\bg-smart-home-2.jpg
+++bruce-mars.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\bruce-mars.jpg
+++down-arrow.svg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\down-arrow.svg
+++down-arrow-dark.svg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\down-arrow-dark.svg
+++down-arrow-white.svg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\down-arrow-white.svg
+++drake.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\drake.jpg
+++favicon.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\favicon.png
+++home-decor-1.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\home-decor-1.jpg
+++home-decor-2.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\home-decor-2.jpg
+++home-decor-3.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\home-decor-3.jpg
+++ivana-square.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\ivana-square.jpg
+++ivana-squares.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\ivana-squares.jpg
+++ivancik.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\ivancik.jpg
+++kal-visuals-square.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\kal-visuals-square.jpg
+++logo-ct.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\logo-ct.png
+++logo-ct-dark.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\logo-ct-dark.png
+++marie.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\marie.jpg
+++meeting.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\meeting.jpg
+++office-dark.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\office-dark.jpg
+++product-12.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\product-12.jpg
+++team-1.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\team-1.jpg
+++team-2.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\team-2.jpg
+++team-3.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\team-3.jpg
+++team-4.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\team-4.jpg
+++team-5.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\team-5.jpg
+++tesla-model-s.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\tesla-model-s.png
+++vr-bg.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\vr-bg.jpg
+++core
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\js\core\
+++plugins
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\js\plugins\
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\plugins\
+++material-dashboard.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\js\material-dashboard.js
+++material-dashboard
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\
+++material-dashboard.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard.scss
+++dist
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\bootstrap\dist\
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\jquery\dist\
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\jquery\license.txt
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++bootstrap.min.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\css\bootstrap.min.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap-grid.min.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\css\bootstrap-grid.min.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-reboot.min.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\css\bootstrap-reboot.min.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++font-awesome.min.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\css\font-awesome.min.css
+++owl.carousel.min.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\css\owl.carousel.min.css
+++fevicon.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\fevicon\fevicon.png
+++1.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\1.jpg
+++2.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\2.jpg
+++22.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\22.jpg
+++3.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\3.jpg
+++4.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\4.jpg
+++404_error_img.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\404_error_img.png
+++5.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\5.jpg
+++6.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\6.jpg
+++7.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\7.jpg
+++8.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\8.jpg
+++accepted.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\accepted.png
+++brand_icon1.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\brand_icon1.png
+++brand_icon2.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\brand_icon2.png
+++brand_icon3.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\brand_icon3.png
+++brand_icon4.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\brand_icon4.png
+++brand_icon5.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\brand_icon5.png
+++client1.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\client1.jpg
+++client1.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\client1.png
+++client2.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\client2.jpg
+++client2.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\client2.png
+++client3.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\client3.jpg
+++client3.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\client3.png
+++dark_bg_img.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\dark_bg_img.png
+++dark_bg_img2.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\dark_bg_img2.png
+++home_01.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\home_01.png
+++i1.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\i1.png
+++i2.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\i2.png
+++i3.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\i3.png
+++i4.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\i4.png
+++inner_page_banner.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\inner_page_banner.jpg
+++location_icon_map_cont.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\location_icon_map_cont.png
+++phone_icon.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\phone_icon.png
+++post-01.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\post-01.jpg
+++post-02.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\post-02.jpg
+++post-03.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\post-03.jpg
+++post-04.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\post-04.jpg
+++post-05.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\post-05.jpg
+++post-06.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\post-06.jpg
+++post-07.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\post-07.jpg
+++post-08.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\post-08.jpg
+++si1.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\si1.png
+++si2.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\si2.png
+++si3.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\si3.png
+++si4.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\si4.png
+++si5.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\si5.png
+++si6.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\si6.png
+++slide1.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\slide1.jpg
+++slide2.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\slide2.jpg
+++slide3.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\slide3.jpg
+++team-member-1.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\team-member-1.jpg
+++team-member-2.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\team-member-2.jpg
+++team-member-3.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\team-member-3.jpg
+++test_bg.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\it_service\test_bg.png
+++loader_1.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\loaders\loader_1.png
+++it_logo.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\logos\it_logo.png
+++it_logo_white.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\images\logos\it_logo_white.png
+++revolution.extension.actions.min.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\js\extensions\revolution.extension.actions.min.js
+++revolution.extension.carousel.min.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\js\extensions\revolution.extension.carousel.min.js
+++revolution.extension.kenburn.min.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\js\extensions\revolution.extension.kenburn.min.js
+++revolution.extension.layeranimation.min.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\js\extensions\revolution.extension.layeranimation.min.js
+++revolution.extension.migration.min.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\js\extensions\revolution.extension.migration.min.js
+++revolution.extension.navigation.min.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\js\extensions\revolution.extension.navigation.min.js
+++revolution.extension.parallax.min.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\js\extensions\revolution.extension.parallax.min.js
+++revolution.extension.slideanims.min.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\js\extensions\revolution.extension.slideanims.min.js
+++revolution.extension.video.min.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\user_assets\revolution\js\extensions\revolution.extension.video.min.js
+++material-dashboard.css.map
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\css\material-dashboard.css.map
+++material-dashboard.min.css
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\css\material-dashboard.min.css
+++flags
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\icons\flags\
+++chat.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\illustrations\chat.png
+++danger-chat-ill.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\illustrations\danger-chat-ill.png
+++dark-lock-ill.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\illustrations\dark-lock-ill.png
+++error-404.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\illustrations\error-404.png
+++error-500.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\illustrations\error-500.png
+++illustration-lock.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\illustrations\illustration-lock.jpg
+++illustration-reset.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\illustrations\illustration-reset.jpg
+++illustration-signin.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\illustrations\illustration-signin.jpg
+++illustration-signup.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\illustrations\illustration-signup.jpg
+++illustration-verification.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\illustrations\illustration-verification.jpg
+++lock.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\illustrations\lock.png
+++pattern-tree.svg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\illustrations\pattern-tree.svg
+++rocket-white.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\illustrations\rocket-white.png
+++gray-logos
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\logos\gray-logos\
+++mastercard.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\logos\mastercard.png
+++visa.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\logos\visa.png
+++product-11.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\products\product-11.jpg
+++product-1-min.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\products\product-1-min.jpg
+++product-2-min.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\products\product-2-min.jpg
+++product-3-min.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\products\product-3-min.jpg
+++product-4-min.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\products\product-4-min.jpg
+++product-5-min.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\products\product-5-min.jpg
+++product-6-min.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\products\product-6-min.jpg
+++product-7-min.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\products\product-7-min.jpg
+++product-details-1.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\products\product-details-1.jpg
+++product-details-2.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\products\product-details-2.jpg
+++product-details-3.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\products\product-details-3.jpg
+++product-details-4.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\products\product-details-4.jpg
+++product-details-5.jpg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\products\product-details-5.jpg
+++pattern-lines.svg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\shapes\pattern-lines.svg
+++waves-white.svg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\shapes\waves-white.svg
+++bootstrap.svg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\small-logos\bootstrap.svg
+++creative-tim.svg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\small-logos\creative-tim.svg
+++devto.svg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\small-logos\devto.svg
+++github.svg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\small-logos\github.svg
+++google-webdev.svg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\small-logos\google-webdev.svg
+++icon-bulb.svg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\small-logos\icon-bulb.svg
+++icon-sun-cloud.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\small-logos\icon-sun-cloud.png
+++logo-asana.svg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\small-logos\logo-asana.svg
+++logo-atlassian.svg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\small-logos\logo-atlassian.svg
+++logo-invision.svg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\small-logos\logo-invision.svg
+++logo-jira.svg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\small-logos\logo-jira.svg
+++logo-slack.svg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\small-logos\logo-slack.svg
+++logo-spotify.svg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\small-logos\logo-spotify.svg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\logos\gray-logos\logo-spotify.svg
+++logo-xd.svg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\small-logos\logo-xd.svg
+++bootstrap.bundle.min.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\js\core\bootstrap.bundle.min.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++popper.min.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\js\core\popper.min.js
+++bootstrap-notify.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\js\plugins\bootstrap-notify.js
+++Chart.extension.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\js\plugins\chart.extension.js
+++chartjs.min.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\js\plugins\chartjs.min.js
+++perfect-scrollbar.min.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\js\plugins\perfect-scrollbar.min.js
+++smooth-scrollbar.min.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\js\plugins\smooth-scrollbar.min.js
+++world.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\js\plugins\world.js
+++material-dashboard.js.map
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\js\material-dashboard.js.map
+++material-dashboard.min.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\js\material-dashboard.min.js
+++cards
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\cards\
+++custom
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\custom\
+++forms
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\forms\
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\forms\
+++mixins
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\mixins\
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\mixins\
+++variables
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\variables\
+++_alert.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_alert.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_alert.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\mixins\_alert.scss
+++_avatars.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_avatars.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\variables\_avatars.scss
+++_badge.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_badge.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_badge.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\mixins\_badge.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\variables\_badge.scss
+++_breadcrumbs.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_breadcrumbs.scss
+++_buttons.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_buttons.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_buttons.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\mixins\_buttons.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\mixins\_buttons.scss
+++_cards.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_cards.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\variables\_cards.scss
+++_dark-version.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_dark-version.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\variables\_dark-version.scss
+++_dropdown.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_dropdown.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_dropdown.scss
+++_dropup.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_dropup.scss
+++_fixed-plugin.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_fixed-plugin.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\variables\_fixed-plugin.scss
+++_footer.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_footer.scss
+++_forms.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_forms.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_forms.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\forms\_forms.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\mixins\_forms.scss
+++_gradients.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_gradients.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\mixins\_gradients.scss
+++_header.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_header.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\variables\_header.scss
+++_icons.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_icons.scss
+++_info-areas.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_info-areas.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\variables\_info-areas.scss
+++_misc.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_misc.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\variables\_misc.scss
+++_nav.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_nav.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_nav.scss
+++_navbar.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_navbar.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_navbar.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\variables\_navbar.scss
+++_navbar-vertical.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_navbar-vertical.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\variables\_navbar-vertical.scss
+++_pagination.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_pagination.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_pagination.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\variables\_pagination.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\mixins\_pagination.scss
+++_popovers.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_popovers.scss
+++_progress.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_progress.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_progress.scss
+++_ripple.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_ripple.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\variables\_ripple.scss
+++_rtl.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_rtl.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\variables\_rtl.scss
+++_social-buttons.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_social-buttons.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\mixins\_social-buttons.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\variables\_social-buttons.scss
+++_tables.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_tables.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_tables.scss
+++_tilt.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_tilt.scss
+++_timeline.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_timeline.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\variables\_timeline.scss
+++_tooltips.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_tooltips.scss
+++_typography.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_typography.scss
+++_utilities.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_utilities.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_utilities.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\variables\_utilities.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\mixins\_utilities.scss
+++_utilities-extend.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_utilities-extend.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\variables\_utilities-extend.scss
+++_variables.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\_variables.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_variables.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\custom\_variables.scss
+++theme.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\theme.scss
+++jquery.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++AU.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\icons\flags\au.png
+++BR.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\icons\flags\br.png
+++DE.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\icons\flags\de.png
+++GB.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\icons\flags\gb.png
+++US.png
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\icons\flags\us.png
+++logo-coinbase.svg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\logos\gray-logos\logo-coinbase.svg
+++logo-nasa.svg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\logos\gray-logos\logo-nasa.svg
+++logo-netflix.svg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\logos\gray-logos\logo-netflix.svg
+++logo-pinterest.svg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\logos\gray-logos\logo-pinterest.svg
+++logo-vodafone.svg
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\img\logos\gray-logos\logo-vodafone.svg
+++helpers
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\helpers\
+++utilities
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\utilities\
+++vendor
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\vendor\
+++_accordion.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_accordion.scss
+++_breadcrumb.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_breadcrumb.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\variables\_breadcrumb.scss
+++_button-group.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_button-group.scss
+++_card.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_card.scss
+++_carousel.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_carousel.scss
+++_close.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_close.scss
+++_containers.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_containers.scss
+++_functions.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_functions.scss
+++_grid.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_grid.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\mixins\_grid.scss
+++_helpers.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_helpers.scss
+++_images.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_images.scss
+++_list-group.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_list-group.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\mixins\_list-group.scss
+++_mixins.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_mixins.scss
+++_modal.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_modal.scss
+++_offcanvas.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_offcanvas.scss
+++_placeholders.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_placeholders.scss
+++_popover.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_popover.scss
+++_reboot.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_reboot.scss
+++_root.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_root.scss
+++_spinners.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_spinners.scss
+++_toasts.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_toasts.scss
+++_tooltip.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_tooltip.scss
+++_transitions.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_transitions.scss
+++_type.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\_type.scss
+++bootstrap.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\bootstrap.scss
+++bootstrap-grid.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\bootstrap-grid.scss
+++bootstrap-reboot.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\bootstrap-reboot.scss
+++bootstrap-utilities.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\bootstrap-utilities.scss
+++card-background.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\cards\card-background.scss
+++card-rotate.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\cards\card-rotate.scss
+++_styles.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\custom\_styles.scss
+++_form-check.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\forms\_form-check.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\forms\_form-check.scss
+++_form-select.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\forms\_form-select.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\forms\_form-select.scss
+++_form-switch.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\forms\_form-switch.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\variables\_form-switch.scss
+++_input-group.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\forms\_input-group.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\forms\_input-group.scss
+++_inputs.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\forms\_inputs.scss
+++_labels.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\forms\_labels.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\forms\_labels.scss
+++_colored-shadows.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\mixins\_colored-shadows.scss
+++_hover.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\mixins\_hover.scss
+++_vendor.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\mixins\_vendor.scss
+++mixins.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\mixins\mixins.scss
+++free
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\plugins\free\
+++_animations.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\variables\_animations.scss
+++_cards-extend.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\variables\_cards-extend.scss
+++_choices.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\variables\_choices.scss
+++_dropdowns.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\variables\_dropdowns.scss
+++_full-calendar.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\variables\_full-calendar.scss
+++_misc-extend.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\variables\_misc-extend.scss
+++_table.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\variables\_table.scss
+++_virtual-reality.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\variables\_virtual-reality.scss
+++bootstrap.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++additional-methods.min.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++_floating-labels.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\forms\_floating-labels.scss
+++_form-control.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\forms\_form-control.scss
+++_form-range.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\forms\_form-range.scss
+++_form-text.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\forms\_form-text.scss
+++_validation.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\forms\_validation.scss
+++_clearfix.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\helpers\_clearfix.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\mixins\_clearfix.scss
+++_colored-links.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\helpers\_colored-links.scss
+++_position.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\helpers\_position.scss
+++_ratio.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\helpers\_ratio.scss
+++_stacks.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\helpers\_stacks.scss
+++_stretched-link.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\helpers\_stretched-link.scss
+++_text-truncation.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\helpers\_text-truncation.scss
+++_visually-hidden.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\helpers\_visually-hidden.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\mixins\_visually-hidden.scss
+++_vr.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\helpers\_vr.scss
+++_backdrop.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\mixins\_backdrop.scss
+++_border-radius.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\mixins\_border-radius.scss
+++_box-shadow.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\mixins\_box-shadow.scss
+++_breakpoints.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\mixins\_breakpoints.scss
+++_caret.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\mixins\_caret.scss
+++_color-scheme.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\mixins\_color-scheme.scss
+++_container.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\mixins\_container.scss
+++_deprecate.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\mixins\_deprecate.scss
+++_image.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\mixins\_image.scss
+++_lists.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\mixins\_lists.scss
+++_reset-text.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\mixins\_reset-text.scss
+++_resize.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\mixins\_resize.scss
+++_table-variants.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\mixins\_table-variants.scss
+++_text-truncate.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\mixins\_text-truncate.scss
+++_transition.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\mixins\_transition.scss
+++_api.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\utilities\_api.scss
+++_rfs.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\bootstrap\vendor\_rfs.scss
+++_flatpickr.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\plugins\free\_flatpickr.scss
+++_nouislider.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\plugins\free\_nouislider.scss
+++_perfect-scrollbar.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\plugins\free\_perfect-scrollbar.scss
+++_prism.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\plugins\free\_prism.scss
+++plugins.scss
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\assets\scss\material-dashboard\plugins\free\plugins.scss
+++bootstrap.css.map
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap-grid.css.map
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-reboot.css.map
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap.bundle.js
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.js.map
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++jquery.min.map
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap-grid.min.css.map
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-reboot.min.css.map
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap.bundle.js.map
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.min.js.map
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.bundle.min.js.map
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++SanPham
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\views\sanpham\
+++SanPhamController.cs
+i:{81376a94-f6de-4a83-b6e7-b8ddb28498fc}:d:\lap tring net nang cao\hiepbaocomputer\hiepbaocomputer\controllers\sanphamcontroller.cs
